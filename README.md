@@ -44,7 +44,7 @@ This Python game challenges you to guess the names of the 50 U.S. states by typi
 4.  Save the provided code as a `.py` file (e.g., `guess_states.py`).
 5.  Run the script using a Python interpreter:
     ```bash
-    python guess_states.py
+    python guess_the_states.py
     ```
 
 ## Code Explanation
